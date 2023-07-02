@@ -1,2 +1,3 @@
-# Alcazar
-Booking online Vaction Points
+Deployed on Vercel
+
+https://alcazar.vercel.app
