@@ -1,4 +1,4 @@
-# OverStock
+# Alacazar
 
 This project is a e-commerce website of Vaction Spot booking  Alacazar . It has been developed by a team of 3 members using React js, Redux,Js.
 
